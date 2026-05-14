@@ -57,9 +57,6 @@ s.close()
 ```
 ```
 client.py
-# ARP PROGRAM
-# CLIENT
-
 import socket
 
 s = socket.socket()
@@ -82,16 +79,16 @@ s.close()
 ```
 ## OUPUT - ARP
 SERVER
+<img width="1441" height="202" alt="WhatsApp Image 2026-05-14 at 8 39 48 PM" src="https://github.com/user-attachments/assets/277e9103-9401-4434-b86d-e852063f0ead" />
 
-<img width="1441" height="202" alt="WhatsApp Image 2026-05-14 at 8 39 48 PM" src="https://github.com/user-attachments/assets/77795269-8b8f-4df1-abe5-535562cb5e7a/>
 
 CLIENT
 
-<img width="1445" height="172" alt="WhatsApp Image 2026-05-14 at 8 39 24 PM" src="https://github.com/user-attachments/assets/76972641-0c9d-421c-a3a8-b6713de8ef22/>
-
+<img width="1445" height="172" alt="WhatsApp Image 2026-05-14 at 8 39 24 PM" src="https://github.com/user-attachments/assets/313e51b0-bb65-4e1e-82bc-bf2bfa27fd0e" />
 
 
 ## PROGRAM - RARP
+```
 client.py
 import socket
 
